@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jogoDaForca_Teste/1.0.0": {
+        "runtime": {
+          "jogoDaForca_Teste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jogoDaForca_Teste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

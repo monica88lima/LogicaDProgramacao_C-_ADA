@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.AssemblyInfo.cs
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\bin\Debug\net6.0\jogoDaForca_Teste.exe
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\bin\Debug\net6.0\jogoDaForca_Teste.deps.json
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\bin\Debug\net6.0\jogoDaForca_Teste.runtimeconfig.json
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\bin\Debug\net6.0\jogoDaForca_Teste.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\bin\Debug\net6.0\jogoDaForca_Teste.pdb
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\refint\jogoDaForca_Teste.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.pdb
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\jogoDaForca_Teste.genruntimeconfig.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\jogoDaForca_Teste\jogoDaForca_Teste\obj\Debug\net6.0\ref\jogoDaForca_Teste.dll
