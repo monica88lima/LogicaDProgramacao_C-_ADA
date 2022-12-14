@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.AssemblyInfo.cs
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\bin\Debug\net6.0\listaExercicios_02.exe
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\bin\Debug\net6.0\listaExercicios_02.deps.json
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\bin\Debug\net6.0\listaExercicios_02.runtimeconfig.json
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\bin\Debug\net6.0\listaExercicios_02.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\bin\Debug\net6.0\listaExercicios_02.pdb
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\refint\listaExercicios_02.dll
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.pdb
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\listaExercicios_02.genruntimeconfig.cache
+C:\Users\rishi\source\repos\LogicaDProgramacao_ModuloI_ADA\listaExercicios_02\listaExercicios_02\obj\Debug\net6.0\ref\listaExercicios_02.dll
